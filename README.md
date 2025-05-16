@@ -64,7 +64,7 @@ The dataset used in this project contains 81 features and 1460 entries, includin
 ![Sale Price Distribution](https://github.com/MahekKamani/Housing-Market-Analysis/blob/main/images/pricevssize.png)
 
 ### 2. Sale Price vs Overall Quality
-![Sale Price vs Overall Quality](https://via.placeholder.com/800x400?text=Sale+Price+vs+Overall+Quality)
+![Sale Price vs Overall Quality](https://github.com/MahekKamani/Housing-Market-Analysis/blob/main/images/yearbuiltvsprice.png)
 
 ### 3. Neighborhood-wise Average Sale Price
 ![Neighborhood-wise Average Sale Price](https://via.placeholder.com/800x400?text=Neighborhood-wise+Average+Sale+Price)
