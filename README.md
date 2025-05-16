@@ -60,17 +60,17 @@ The dataset used in this project contains 81 features and 1460 entries, includin
 
 ## Visualizations
 
-### 1. Sale Price Distribution
+### 1. How Sales price depend on the size of the house
 <div align="center">
   <img src="https://github.com/MahekKamani/Housing-Market-Analysis/blob/main/images/pricevssize.png" alt="Sale Price Distribution" width="600">
 </div>
 
-### 2. Sale Price vs Overall Quality
+### 2. How value of house changes over time
 <div align="center">
   <img src="https://github.com/MahekKamani/Housing-Market-Analysis/blob/main/images/yearbuiltvsprice.png" alt="Sale Price vs Overall Quality" width="600">
 </div>
 
-### 3. Neighborhood-wise Average Sale Price
+### 3. Heat Map analysis
 <div align="center">
   <img src="https://github.com/MahekKamani/Housing-Market-Analysis/blob/main/images/heatmap.png" alt="Neighborhood-wise Average Sale Price" width="600">
 </div>
