@@ -61,7 +61,7 @@ The dataset used in this project contains 81 features and 1460 entries, includin
 ## Visualizations
 
 ### 1. Sale Price Distribution
-![Sale Price Distribution](https://via.placeholder.com/800x400?text=Sale+Price+Distribution)
+![Sale Price Distribution](https://github.com/MahekKamani/Housing-Market-Analysis/blob/main/images/pricevssize.png)
 
 ### 2. Sale Price vs Overall Quality
 ![Sale Price vs Overall Quality](https://via.placeholder.com/800x400?text=Sale+Price+vs+Overall+Quality)
