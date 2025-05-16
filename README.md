@@ -80,6 +80,23 @@ The dataset used in this project contains 81 features and 1460 entries, includin
 ### 3. Neighborhood-wise Average Sale Price
 <img src="https://github.com/MahekKamani/Housing-Market-Analysis/blob/main/images/heatmap.png" alt="Neighborhood-wise Average Sale Price" width="600">
 
+## Visualizations
+
+### 1. Sale Price Distribution
+<div align="center">
+  <img src="https://github.com/MahekKamani/Housing-Market-Analysis/blob/main/images/pricevssize.png" alt="Sale Price Distribution" width="600">
+</div>
+
+### 2. Sale Price vs Overall Quality
+<div align="center">
+  <img src="https://github.com/MahekKamani/Housing-Market-Analysis/blob/main/images/yearbuiltvsprice.png" alt="Sale Price vs Overall Quality" width="600">
+</div>
+
+### 3. Neighborhood-wise Average Sale Price
+<div align="center">
+  <img src="https://github.com/MahekKamani/Housing-Market-Analysis/blob/main/images/heatmap.png" alt="Neighborhood-wise Average Sale Price" width="600">
+</div>
+
 ## Key Insights
 
 1. **Neighborhood Impact on Sale Prices**:
