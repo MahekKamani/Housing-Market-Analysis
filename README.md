@@ -72,7 +72,7 @@ The dataset used in this project contains 81 features and 1460 entries, includin
 
 ### 3. Heat Map analysis
 <div align="center">
-  <img src="https://github.com/MahekKamani/Housing-Market-Analysis/blob/main/images/heatmap.png" alt="Neighborhood-wise Average Sale Price" width="600">
+  <img src="https://github.com/MahekKamani/Housing-Market-Analysis/blob/main/images/heatmap.png" alt="Neighborhood-wise Average Sale Price">
 </div>
 
 ## Key Insights
